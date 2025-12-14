@@ -1,0 +1,4 @@
+com\tallerreyes\cotizaciones\config\CorsConfig.class
+com\tallerreyes\cotizaciones\config\CorsProperties.class
+com\tallerreyes\cotizaciones\security\SecurityConfig.class
+com\tallerreyes\cotizaciones\CotizacionesApplication.class

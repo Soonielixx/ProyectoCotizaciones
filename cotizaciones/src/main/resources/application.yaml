@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://rozgqnoyknvbtuvzhbqw.supabase.co:5432/postgres?sslmode=require
+    username: postgres
+    password: gVUIIDEyambZ1HoF
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
